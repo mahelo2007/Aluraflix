@@ -4,7 +4,16 @@ body{
     margin: 2px; color: #416832;
 }
 header {
-    border-bottom: solid 2px hsl(60, 69%, 24%);
-    padding: 20px;
-    font-size: 34px
-}
+    header {
+        border-bottom: solid 2px #86895d;
+        padding: 20px;
+        font-size: 32px;
+        color: #bec092
+    }
+    section {
+        background: #272b00;
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+    }
