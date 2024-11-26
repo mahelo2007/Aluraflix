@@ -2,6 +2,7 @@ body{
     background-color: #dde693;
     color: white;
     margin: 2px; color: #54582f;
+    font-family: "Merriweather", sans-serif;
 }
 header {
     header {
@@ -15,5 +16,11 @@ header {
         padding-bottom: 80px;
         padding-top: 80px;
         display: flex;
-        justify-content: center;
+        justify-content: center
+    }
+    .chamada-texto{
+        margin-right: 5%;
+    }
+    h1 { 
+        font-size: 40px;
     }
