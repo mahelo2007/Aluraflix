@@ -1,14 +1,15 @@
 body{
-    background-color: #dde693;
-    color: white;
-    margin: 2px; color: #54582f;
+    background-color: #86895d;
+    margin: 2px;
+    color:  #bec092;
     font-family: "Merriweather", sans-serif;
 }
 header {
     border-bottom: solid 2px #86895d;
     padding: 20px;
     font-size: 32px;
-    color: #bec092
+    color: #86895d;
+    background: #bec092;
     }
     
 h1 { 
@@ -16,7 +17,8 @@ h1 {
 }
 
 section {
-    background: #272b00;
+    color: #bec092;
+    background:#86895d;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
