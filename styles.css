@@ -22,5 +22,11 @@ header {
         margin-right: 5%;
     }
     h1 { 
-        font-size: 40px;
+        font-size: 80px;
     }
+    .style-script-regular {
+        font-family: "Style Script", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
