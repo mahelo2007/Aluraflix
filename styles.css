@@ -5,28 +5,24 @@ body{
     font-family: "Merriweather", sans-serif;
 }
 header {
-    header {
-        border-bottom: solid 2px #86895d;
-        padding: 20px;
-        font-size: 32px;
-        color: #bec092
+    border-bottom: solid 2px #86895d;
+    padding: 20px;
+    font-size: 32px;
+    color: #bec092
     }
-    section {
-        background: #272b00;
-        padding-bottom: 80px;
-        padding-top: 80px;
-        display: flex;
-        justify-content: center
-    }
-    .chamada-texto{
-        margin-right: 5%;
-    }
-    h1 { 
-        font-size: 80px;
-    }
-    .style-script-regular {
-        font-family: "Style Script", cursive;
-        font-weight: 400;
-        font-style: normal;
-      }
-      
+    
+h1 { 
+    font-size: 32px;
+}
+
+section {
+    background: #272b00;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center
+}
+
+.chamada-texto{
+     margin-right: 5%;
+}
