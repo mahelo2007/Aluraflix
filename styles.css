@@ -8,14 +8,14 @@ body{
 header {
     border-bottom: solid 2px #b0b47a;
     padding: 20px;
-    font-size: 32px;
+    font-size: 42px;
     color: #86895d;
     background: #bec092;
     font-family: "Shizuru", system-ui;
     }
     
 h1 { 
-    font-size: 32px;
+    font-size: 42px;
 }
 
 section {
