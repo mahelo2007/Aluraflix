@@ -1,15 +1,15 @@
 body{
-    color: #86895d;
-    background: #bec092;
+    color: #000000;
+    background: #ad0505;
     font-family: "Merriweather", sans-serif;
     margin: 0px;
 }
 header {
-    border-bottom: solid 2px #b0b47a;
+    border-bottom: solid 2px hsl(0, 73%, 46%);
     padding: 20px;
     font-size: 42px;
-    color: #86895d;
-    background: #bec092;
+    color: #ad0505;
+    background: #800400;
     font-family: "Shizuru", system-ui;
     }
     
@@ -23,8 +23,8 @@ p { font-size: 28px;
 }
 
 section {
-    color: #bec092;
-    background:#86895d;
+    color: #ad0505;
+    background:#000000;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
